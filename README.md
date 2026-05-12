@@ -25,3 +25,18 @@ this tutorial setup.
 
 # Screenshot of "Running RabbitMQ as message broker." commit
 ![RabbitMQImage1.png](RabbitMQImage1.png)
+
+# Screenshot of "Sending and processing event."
+![RabbitMQImage2.png](RabbitMQImage2.png)
+
+![RabbitMQImage3.png](RabbitMQImage3.png)
+
+![RabbitMQImage4.png](RabbitMQImage4.png)
+
+I successfully ran both the subscriber and publisher programs simultaneously to observe their interaction through the RabbitMQ broker. 
+When the publisher was executed using cargo run, it broadcasted five different "user_created" events where each event contains a unique user ID and my NPM/student ID. 
+The RabbitMQ management console showed an immediate spike in activity since these messages were received and placed into the designated queue. 
+On the subscriber side, the console immediately began printing the incoming data which confirms that the listener was effectively pulling messages from the broker in real-time. 
+This experiment shows the core benefit of event-driven architecture because publisher was able to send all five messages without needing to know if the subscriber was ready or even active. 
+The seamless delivery of data across two independent processes proves that the system is correctly decoupled and communicating through the shared event bus.
+

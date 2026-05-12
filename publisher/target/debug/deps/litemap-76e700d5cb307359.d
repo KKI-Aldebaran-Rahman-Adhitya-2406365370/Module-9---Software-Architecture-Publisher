@@ -1,0 +1,10 @@
+/mnt/c/Users/Aldebaran R. Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/deps/litemap-76e700d5cb307359.d: /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/mnt/c/Users/Aldebaran R. Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/deps/liblitemap-76e700d5cb307359.rlib: /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/mnt/c/Users/Aldebaran R. Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/deps/liblitemap-76e700d5cb307359.rmeta: /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs:

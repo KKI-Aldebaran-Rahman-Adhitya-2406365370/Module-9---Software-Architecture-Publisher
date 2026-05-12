@@ -1,0 +1,9 @@
+/mnt/c/Users/Aldebaran R. Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/deps/snafu_derive-930134a1abdbf3ca.d: /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/mnt/c/Users/Aldebaran R. Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/deps/libsnafu_derive-930134a1abdbf3ca.so: /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs /home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs
+
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/lib.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/parse.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/shared.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report.rs:
+/home/aldebaran64/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.7.5/src/report/no_async.rs:

@@ -1,1 +1,1 @@
-C:\Users\Aldebaran\ R.\ Adhitya\IdeaProjects\Module-9---Software-Architecture-Publisher\publisher\target\debug\publisher.exe: C:\Users\Aldebaran\ R.\ Adhitya\IdeaProjects\Module-9---Software-Architecture-Publisher\publisher\src\main.rs
+/mnt/c/Users/Aldebaran\ R.\ Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/target/debug/publisher: /mnt/c/Users/Aldebaran\ R.\ Adhitya/IdeaProjects/Module-9---Software-Architecture-Publisher/publisher/src/main.rs
