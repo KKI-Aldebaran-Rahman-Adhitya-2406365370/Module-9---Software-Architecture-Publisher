@@ -40,3 +40,13 @@ On the subscriber side, the console immediately began printing the incoming data
 This experiment shows the core benefit of event-driven architecture because publisher was able to send all five messages without needing to know if the subscriber was ready or even active. 
 The seamless delivery of data across two independent processes proves that the system is correctly decoupled and communicating through the shared event bus.
 
+# Screenshot of "Monitoring chart based on publisher." commit
+
+![RabbitMQImage5.png](RabbitMQImage5.png)
+
+After executing the publisher program repeatedly, I saw spikes within the RabbitMQ Management "Message rates" and "Queued messages" charts. 
+These spikes represent the immediate influx of data as the publisher rapidly broadcasts multiple batches of "user_created" events to the exchange. 
+The upward movement on the graph directly correlates with the moment the `cargo run` command is executed which means that the broker is actively receiving and routing new messages. 
+Because the subscriber processes these messages almost instantly in the current setup, the spikes are sharp and subside quickly once the publisher finishes its five-message cycle.
+Monitoring these charts is an important practice in software architecture because it allows developers to visualize the system's throughput and identify potential bottlenecks in real-time.
+By observing these patterns, I think the message broker is effectively handling the burst of traffic and maintaining the flow of communication between my decoupled services.
