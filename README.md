@@ -22,3 +22,6 @@ at that same location. This shared connection string effectively creates the bri
 allows these two independent processes to collaborate without knowing each other's internal 
 logic. It serves as the single point of truth for the entire messaging infrastructure in 
 this tutorial setup.
+
+# Screenshot of "Running RabbitMQ as message broker." commit
+![RabbitMQImage1.png](RabbitMQImage1.png)
